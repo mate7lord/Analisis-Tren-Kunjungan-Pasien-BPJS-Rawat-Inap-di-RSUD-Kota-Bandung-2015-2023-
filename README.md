@@ -13,3 +13,7 @@ Analisis ini bertujuan untuk mengeksplorasi dan menganalisis data kunjungan pasi
 - **Pustaka**: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels
 - **Teknik**: Analisis Data Eksploratif (EDA), Analisis Runtun Waktu (Time Series Analysis)
 - **Lingkungan**: Google Colab
+
+### Rekomendasi
+1. Alokasi Sumber Daya: Manajemen rumah sakit dapat menggunakan hasil analisis ini untuk mengalokasikan sumber daya sesuai dengan kebutuhan ruang perawatan yang mengalami peningkatan jumlah pasien.
+2. Perencanaan Jangka Panjang: Dengan memanfaatkan hasil prediksi, manajemen bisa merencanakan strategi jangka panjang untuk menghadapi fluktuasi jumlah pasien.
